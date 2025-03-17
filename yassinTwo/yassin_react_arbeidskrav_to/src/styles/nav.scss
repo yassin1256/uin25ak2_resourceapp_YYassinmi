@@ -1,0 +1,18 @@
+nav {
+    display: flex;
+    background: #2A324B;
+    padding: 10px;
+
+    a {
+        color: white;
+        text-decoration: none;
+        padding: 10px 15px;
+        font-weight: bold;
+        margin-right: 10px;
+        border-radius: 5px;
+
+        &:hover {
+            background: #58699D;
+        }
+    }
+}
